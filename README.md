@@ -1,4 +1,4 @@
-# Team5
+# Team5: Legend of Zelda
 
 <p align="center"><img src="https://github.com/Mrakuzic4/Team5/blob/main/game/hEyfU35.png" width="512" /></p>
 
@@ -9,8 +9,6 @@ For how this game is played, see the <a href="https://github.com/Mrakuzic4/Team5
 -------------------------------------------------------
 
 Folder structure: 
- 
-~~To be honest this is just for grader...~~
 
 ```
 Team5
